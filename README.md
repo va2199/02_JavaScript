@@ -1,2 +1,2 @@
-JAVASCRIPT_CONCEPTS
+02_JavaScript
 ===================
